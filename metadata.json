@@ -1,0 +1,9 @@
+{
+  "name": "QuickQR – QR & Barcode Scanner",
+  "description": "Fast, lightweight, offline-first Android QR and barcode scanner application built with Kotlin, Jetpack Compose, Material 3, and CameraX. Designed by Jagadeesh.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
